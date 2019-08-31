@@ -1,0 +1,6 @@
+{
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "pgFormatter.commaBreak": true,
+    "pgFormatter.formatType": true,
+    "pgFormatter.spaces": 2
+}
